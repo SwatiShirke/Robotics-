@@ -1,0 +1,3 @@
+To use Median filter with arduino 
+Put Header and CPP file in library of Arduino by creating new folder with same name as Header file.
+Put .ino file sketchbook of Arduino.
